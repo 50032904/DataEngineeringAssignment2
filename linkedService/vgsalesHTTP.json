@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/50032904/DataEngineeringAssignment2/main/vgsales.csv?token=GHSAT0AAAAAACQ4XF3JL2HC2D4MIETUKL5GZRBBXLQ",
+			"url": "https://raw.githubusercontent.com/50032904/DataEngineeringAssignment2/main/vgsales.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
